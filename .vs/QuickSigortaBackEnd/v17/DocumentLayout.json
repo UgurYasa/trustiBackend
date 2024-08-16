@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\coveragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\coveragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\abstract\\icoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\abstract\\icoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\webapi\\controllers\\coveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\coveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\declarationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\declarationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\declarationpersonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\declarationpersonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\abstract\\ideclarationpersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\abstract\\ideclarationpersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\webapi\\controllers\\policycoveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\policycoveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\policycoveragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\policycoveragemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\abstract\\ipolicycoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\abstract\\ipolicycoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0078C14-62E5-4317-BAE7-68318C13A306}|Core\\Core.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0078C14-62E5-4317-BAE7-68318C13A306}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\webapi\\controllers\\declarationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\declarationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\webapi\\controllers\\declarationpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04819DF-D6A9-4CBB-8CC0-46B1588A636A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\declarationpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|c:\\users\\uguryasa\\desktop\\staj\\c#calimasi\\quicksigortabackend\\business\\abstract\\ideclarationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F842F36-B2FA-4406-A707-5298193BB38B}|Business\\Business.csproj|solutionrelative:business\\abstract\\ideclarationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeclarationPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IDeclarationPersonService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IDeclarationPersonService.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IDeclarationPersonService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IDeclarationPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:12:52.103Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeclarationPersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\DeclarationPersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\DeclarationPersonManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\DeclarationPersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\DeclarationPersonManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:13:16.937Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeclarationPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\DeclarationPersonController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DeclarationPersonController.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\DeclarationPersonController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\DeclarationPersonController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:11:52.821Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoverageManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\CoverageManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CoverageManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\CoverageManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CoverageManager.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwDQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:16:53.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICoverageService.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\ICoverageService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICoverageService.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\ICoverageService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICoverageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:16:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoverageController.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\CoverageController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CoverageController.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\CoverageController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CoverageController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:15:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPolicyCoverageService.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IPolicyCoverageService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IPolicyCoverageService.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IPolicyCoverageService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IPolicyCoverageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:15:46.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\PaymentManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PaymentManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:58:51.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyCoverageController.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\PolicyCoverageController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PolicyCoverageController.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\PolicyCoverageController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PolicyCoverageController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:16:49.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\CustomerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CustomerManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:57:55.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeclarationManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\DeclarationManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\DeclarationManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\DeclarationManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\DeclarationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:54:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyCoverageManager.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\PolicyCoverageManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PolicyCoverageManager.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Concrete\\PolicyCoverageManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PolicyCoverageManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:16:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:54:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:52.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDeclarationService.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IDeclarationService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IDeclarationService.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\Business\\Abstract\\IDeclarationService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IDeclarationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:54:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeclarationController.cs",
+              "DocumentMoniker": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\DeclarationController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DeclarationController.cs",
+              "ToolTip": "C:\\Users\\uguryasa\\Desktop\\staj\\C#Calimasi\\QuickSigortaBackEnd\\WebAPI\\Controllers\\DeclarationController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\DeclarationController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:59:28.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
